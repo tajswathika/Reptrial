@@ -1,0 +1,45 @@
+.omain{
+    width: 1200px;
+    height: 1200px;
+    display: flex;
+    flex-direction: row;
+    background-color:rgb(231, 229, 229);
+    border-style: solid black;
+    }
+.sub1{
+    width: 550px;
+    height: 1000px;
+    padding: 1px;
+    display: flex;
+    flex-direction: column;
+    border-style: dotted blue;
+    font-size: 40px;
+}
+.sub2{
+    width: 550px;
+    height: 1000px;
+    display: flex;
+    flex-direction: row;
+    border-style: dotted blue;
+}
+.insub1{
+    width: 550px;
+    height: 100px;
+    margin: 0px 0px;
+    display: flex; 
+    flex-direction: column;
+    font-size:20px;
+    color:grey;
+}
+.tx{
+    
+    padding: 3px; 
+    width: 550px;
+    height: 20px; 
+    display: flex; 
+    flex-direction: column;
+    color: white;
+    background-color:skyblue;
+    font-size: 20px;
+
+}   
